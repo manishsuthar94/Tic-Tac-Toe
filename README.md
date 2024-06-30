@@ -2,7 +2,7 @@
 
 ## Project URL
 
-You can view the project here: [Myntra Clone](https://manishsuthar94.github.io/Tic-Tac-Toe/)
+You can view the project here: [Tic-Tac-Toe Game](https://manishsuthar94.github.io/Tic-Tac-Toe/)
 
 ## Project Image
 
